@@ -1,5 +1,5 @@
 import React, {lazy, Suspense} from 'react';
-import { Link, MemoryRouter as Router, Route, Switch } from 'react-router-dom';
+import { Link, BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Home from './Home';
 
